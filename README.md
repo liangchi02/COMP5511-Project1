@@ -1,6 +1,12 @@
 # COMP5511-Project1
 Polyu student, chi LIANG.  
   
+The TravelingSaleManProblems file is main part to realize GA to solve TSP or relevant problems.  
+  
+The COMP5511 Project1 TSP data .xlsx file has saved some data for you to test our algorithm. I use some random function to generate data in this exel file.  
+  
+The TSPTWPlot file is used to solve TSPTW.  
+  
 The IDE is IntelliJ IDEA 2020.1 (Ultimate Edition)
 Build #IU-201.6668.121, built on April 8, 2020
 Licensed to IntelliJ IDEA Evaluator
@@ -12,9 +18,3 @@ GC: ParNew, ConcurrentMarkSweep
 Memory: 1900M
 Cores: 16
 Non-Bundled Plugins: Lombook Plugin
-  
-The TravelingSaleManProblems file is main part to realize GA to solve TSP or relevant problems.  
-  
-The COMP5511 Project1 TSP data .xlsx file has saved some data for you to test our algorithm. I use some random function to generate data in this exel file.  
-  
-The TSPTWPlot file is used to solve TSPTW.
